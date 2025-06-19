@@ -14,8 +14,8 @@ Hello! I'm Afra B, a passionate BTech CS student with a love for creating impact
 ## 🛠️ Skills & Tech Stack
 
 - **Programming Languages**: C, Python, Java
-- **Frontend Web Development**: HTML, CSS, JavaScript
-- **Backend Technologies**: Flask
+- **Frontend Web Development**: HTML, CSS, JavaScript, React
+- **Backend Technologies**: Flask, Node.js, Express.js
 - **Database**: MongoDB
 - **Development Tools/IDEs**: VS Code, Spyder, PyCharm
 ---
