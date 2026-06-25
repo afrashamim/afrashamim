@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm Afra B, a passionate BTech CS student with a love for creating impactful web applications. My journey in tech revolves around building solutions that matter and learning new technologies.
+Hello! I'm Afra B, a passionate BTech CS student with a love for creating impactful web applications and develop projects on Artificial Intelligence & Machine Learning. My journey in tech revolves around building solutions that matter and learning new technologies.
 
 ---
 
