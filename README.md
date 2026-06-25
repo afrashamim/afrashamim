@@ -1,7 +1,7 @@
 # Hi there, I'm Afra B 👋
 
 🎓 **BTech Computer Science Student**  
-💻 **Web Development Enthusiast**
+💻 **AI ML Enthusiast**
 
 ---
 
